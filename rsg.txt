@@ -1,1 +1,4 @@
 ||rockstargames.com^
+||rstr-processing-api.modulate.ai^
+||tm-gta5-prod.ros.rockstargames.com^
+||prod.cloud.rockstargames.com^
